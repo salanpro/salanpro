@@ -1,7 +1,3 @@
-<h2 align="left">sergioalanpro</h2>
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergioalanpro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=onedark&hide_border=false" height="155" alt="languages graph"  />
 </div>
@@ -32,5 +28,9 @@
 
 <div align="left">
 </div>
+
+###
+
+<h2 align="left">sergioalanpro</h2>
 
 ###
