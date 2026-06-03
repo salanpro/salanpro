@@ -1,8 +1,14 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salanpro&layout=compact&langs_count=10&theme=onedark" />
+
 ![](https://github.com/salanpro/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/salanpro/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/salanpro/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/salanpro/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+
+![](https://github.com/[USERNAME]/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/[USERNAME]/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
