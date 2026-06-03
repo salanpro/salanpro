@@ -1,7 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salanpro&layout=compact&langs_count=10&theme=onedark" />
 
-
-![](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/languages.svg#gh-dark-mod
+![](https://raw.githubusercontent.com/salanpro/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
